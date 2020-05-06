@@ -400,7 +400,7 @@ This library requires no additional libraries except for the neural network visu
 neural network visual functions works on SFML which has its own standard liscense.
 
 This library is created by Abhinav-P (@ai-factoy) 
-licensed under Apache License(LICENSE)
+licensed under [Apache License](LICENSE)
 
 comment if you are facing any issue with this library.
 
